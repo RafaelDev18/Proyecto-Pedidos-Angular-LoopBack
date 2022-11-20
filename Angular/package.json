@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@types/crypto-js": "^4.1.1"
+  }
+}
